@@ -9,8 +9,18 @@ namespace Lab08Styles
         public App()
         {
             InitializeComponent();
+            var buttonStyle = new Style(typeof(Button))
+            {
+                Setters = { new Setter { Property = Button.TextColorProperty,    Value = Color.Teal }
+            }
+            };
+            //Resources = new ResourceDictionary();
+            Resources.Add("buttonStyleCode", buttonStyle);
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new GlobalCode());
+
+
+            //MainPage = new MainPage();
         }
 
         protected override void OnStart()

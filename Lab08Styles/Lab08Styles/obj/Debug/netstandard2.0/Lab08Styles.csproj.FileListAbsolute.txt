@@ -1,0 +1,16 @@
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\bin\Debug\netstandard2.0\Lab08Styles.deps.json
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\bin\Debug\netstandard2.0\Lab08Styles.dll
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\bin\Debug\netstandard2.0\ref\Lab08Styles.dll
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\bin\Debug\netstandard2.0\Lab08Styles.pdb
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\GlobalCode.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\GlobalDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.AssemblyInfoInputs.cache
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.AssemblyInfo.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\XamlC.stamp
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.dll
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\ref\Lab08Styles.dll
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.pdb
