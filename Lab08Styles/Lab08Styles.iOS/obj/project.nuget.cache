@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uYtlCr08vAvixrqkjswGvMwTQVoWTwn/4Lk2p53kR/rgFHr3m98vqn85ObbUUsnkwzC6eAZyFawpcgG4BmyyeQ==",
+  "dgSpecHash": "DRlmmuCcR0pvFX1NaQ4gH4DAxmb77nDeLONtAwHd+KfS9Zy5hXiiYpQbFtFygdGBwp/g7at9YZYJSd6JY8eQNA==",
   "success": true,
-  "projectFilePath": "E:\\ProjectVisualStudio\\Lab08Styles\\Lab08Styles\\Lab08Styles.iOS\\Lab08Styles.iOS.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles.iOS\\Lab08Styles.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }

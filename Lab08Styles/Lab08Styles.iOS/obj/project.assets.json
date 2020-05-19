@@ -1018,24 +1018,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
-    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjectVisualStudio\\Lab08Styles\\Lab08Styles\\Lab08Styles.iOS\\Lab08Styles.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles.iOS\\Lab08Styles.iOS.csproj",
       "projectName": "Lab08Styles.iOS",
-      "projectPath": "E:\\ProjectVisualStudio\\Lab08Styles\\Lab08Styles\\Lab08Styles.iOS\\Lab08Styles.iOS.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjectVisualStudio\\Lab08Styles\\Lab08Styles\\Lab08Styles.iOS\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles.iOS\\Lab08Styles.iOS.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "E:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1049,8 +1049,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\ProjectVisualStudio\\Lab08Styles\\Lab08Styles\\Lab08Styles\\Lab08Styles.csproj": {
-              "projectPath": "E:\\ProjectVisualStudio\\Lab08Styles\\Lab08Styles\\Lab08Styles\\Lab08Styles.csproj"
+            "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles\\Lab08Styles.csproj": {
+              "projectPath": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles\\Lab08Styles.csproj"
             }
           }
         }
