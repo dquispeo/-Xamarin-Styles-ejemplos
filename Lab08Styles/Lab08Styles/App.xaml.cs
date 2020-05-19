@@ -17,7 +17,7 @@ namespace Lab08Styles
             //Resources = new ResourceDictionary();
             Resources.Add("buttonStyleCode", buttonStyle);
 
-            MainPage = new NavigationPage(new GlobalCode());
+            MainPage = new NavigationPage(new ClassDemo());
 
 
             //MainPage = new MainPage();

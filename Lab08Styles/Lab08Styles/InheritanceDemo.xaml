@@ -5,11 +5,33 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Lab08Styles.InheritanceDemo">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="baseStyle" TargetType="View">
+                <Setter Property="HorizontalOptions"
+                        Value="Center" />
+                <Setter Property="VerticalOptions"
+                        Value="CenterAndExpand" />
+            </Style>
+            <Style x:Key="labelStyle" TargetType="Label"
+                   BasedOn="{StaticResource baseStyle}">
+                <Setter Property="TextColor" Value="Coral"/>
+                <Setter Property="BackgroundColor" Value="Aqua"/>
+            </Style>
+            <Style x:Key="buttonStyle" TargetType="Button"
+                   BasedOn="{StaticResource baseStyle}">
+                <Setter Property="BorderColor" Value="Lime" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout Padding="0,50,0,0">
+                <Label Text="These labels"
+                   Style="{StaticResource labelStyle}" />
+                <Button Text="So is the button"
+                    Style="{StaticResource buttonStyle}" />
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -14,3 +14,8 @@ E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard
 E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.dll
 E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\ref\Lab08Styles.dll
 E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\Lab08Styles.pdb
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\InheritanceCode.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\InheritanceDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\DynamicDemo.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\DynamicCode.xaml.g.cs
+E:\ProjectVisualStudio\Lab08Styles\Lab08Styles\Lab08Styles\obj\Debug\netstandard2.0\ClassDemo.xaml.g.cs
