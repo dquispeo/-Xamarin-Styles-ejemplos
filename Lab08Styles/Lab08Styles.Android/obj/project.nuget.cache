@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6Ph216A2mmLQRDe0wV2a3LbYLykk9BmTWXV3c/7jmBUq1KvBXVDWGF6RsZVo1ck9FkFP5c1V4Rs9ER2UNGO+eg==",
+  "dgSpecHash": "t8yCsaSXGI5uVwJnws4rkTYouQEahFNLOOLlWciiCEhRzw1Y9hEBH3yzzFtiJp/lk/xn1RD6g70ZAUFB1sh8Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles.Android\\Lab08Styles.Android.csproj",
+  "projectFilePath": "D:\\Proyectos-Visual-Studio\\lab8\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles.Android\\Lab08Styles.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.lifecycle.common\\1.1.1.3\\xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",

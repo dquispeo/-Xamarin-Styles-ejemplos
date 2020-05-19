@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aP1XtYne7YzmcrLhuP5EpBdGCG4N0KlCeqkTg9/P2FvphQLgbgh4chXQPFqxKgXa6OFGJWtDvmbvANkbe8cUDQ==",
+  "dgSpecHash": "Jm2Q+VWbnBfKKXsjiMKidOmUgIGq3skYS/vi3FfKjZR/Xobjn99kX7pJNGYMoFUA2n79THryw8tmMOZwkL1aog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles\\Lab08Styles.csproj",
+  "projectFilePath": "D:\\Proyectos-Visual-Studio\\lab8\\-Xamarin-Styles-ejemplos\\Lab08Styles\\Lab08Styles\\Lab08Styles.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
