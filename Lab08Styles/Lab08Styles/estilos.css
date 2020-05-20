@@ -1,1 +1,20 @@
-﻿
+﻿^contentpage{
+    background-color: yellow;
+}
+stacklayout{
+    background-color: lightyellow;
+    margin: 16;
+}
+.estiloTitulo{
+    font-family: Algerian;
+    font-style: bold;
+}
+#labelLetra {
+    color: red;
+    font-style: italic;
+}
+button{
+    background-color: aqua;
+    color: black;
+    padding: 3;
+}
